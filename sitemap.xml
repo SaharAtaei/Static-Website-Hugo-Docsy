@@ -2,16 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>/Static-Website-Hugo-Docsy/no/sitemap.xml</loc>
+	   	<loc>/ataei/en/sitemap.xml</loc>
 		
-	   	<lastmod>2020-07-27T12:58:48+04:30</lastmod>
+	   	<lastmod>2020-07-27T13:26:28+04:30</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/Static-Website-Hugo-Docsy/en/sitemap.xml</loc>
+	   	<loc>/ataei/no/sitemap.xml</loc>
 		
-	   	<lastmod>2020-07-27T12:58:48+04:30</lastmod>
+	   	<lastmod>2020-07-27T13:26:28+04:30</lastmod>
 		
 	</sitemap>
 	

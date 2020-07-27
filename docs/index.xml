@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goldydocs – Documentation</title>
-    <link>/Static-Website-Hugo-Docsy/docs/</link>
+    <link>/ataei/docs/</link>
     <description>Recent content in Documentation on Goldydocs</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/Static-Website-Hugo-Docsy/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/ataei/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Bed and Chair Metrics</title>
-      <link>/Static-Website-Hugo-Docsy/docs/tasks/beds/</link>
+      <link>/ataei/docs/tasks/beds/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/tasks/beds/</guid>
+      <guid>/ataei/docs/tasks/beds/</guid>
       <description>
         
         
@@ -316,10 +316,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Configuring Ponycopters</title>
-      <link>/Static-Website-Hugo-Docsy/docs/tasks/ponycopters/configuring-ponycopters/</link>
+      <link>/ataei/docs/tasks/ponycopters/configuring-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/tasks/ponycopters/configuring-ponycopters/</guid>
+      <guid>/ataei/docs/tasks/ponycopters/configuring-ponycopters/</guid>
       <description>
         
         
@@ -617,10 +617,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Launching Ponycopters</title>
-      <link>/Static-Website-Hugo-Docsy/docs/tasks/ponycopters/launching-ponycopters/</link>
+      <link>/ataei/docs/tasks/ponycopters/launching-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/tasks/ponycopters/launching-ponycopters/</guid>
+      <guid>/ataei/docs/tasks/ponycopters/launching-ponycopters/</guid>
       <description>
         
         
@@ -918,10 +918,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Multi-Bear Domicile Setup</title>
-      <link>/Static-Website-Hugo-Docsy/docs/tutorials/multi-bear/</link>
+      <link>/ataei/docs/tutorials/multi-bear/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/tutorials/multi-bear/</guid>
+      <guid>/ataei/docs/tutorials/multi-bear/</guid>
       <description>
         
         
@@ -1219,10 +1219,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Porridge Assessment</title>
-      <link>/Static-Website-Hugo-Docsy/docs/tasks/porridge/</link>
+      <link>/ataei/docs/tasks/porridge/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/tasks/porridge/</guid>
+      <guid>/ataei/docs/tasks/porridge/</guid>
       <description>
         
         
@@ -1520,10 +1520,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Another Task</title>
-      <link>/Static-Website-Hugo-Docsy/docs/tasks/task/</link>
+      <link>/ataei/docs/tasks/task/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/tasks/task/</guid>
+      <guid>/ataei/docs/tasks/task/</guid>
       <description>
         
         
@@ -1821,10 +1821,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Another Tutorial</title>
-      <link>/Static-Website-Hugo-Docsy/docs/tutorials/tutorial2/</link>
+      <link>/ataei/docs/tutorials/tutorial2/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/tutorials/tutorial2/</guid>
+      <guid>/ataei/docs/tutorials/tutorial2/</guid>
       <description>
         
         
@@ -2122,10 +2122,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Convex Optimization: A Practical Guide</title>
-      <link>/Static-Website-Hugo-Docsy/docs/examples/cvxguide/</link>
+      <link>/ataei/docs/examples/cvxguide/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/examples/cvxguide/</guid>
+      <guid>/ataei/docs/examples/cvxguide/</guid>
       <description>
         
         
@@ -3008,10 +3008,10 @@ z =&amp;amp;C_zx+D_uu
     
     <item>
       <title>Docs: Example Page</title>
-      <link>/Static-Website-Hugo-Docsy/docs/getting-started/example-page/</link>
+      <link>/ataei/docs/getting-started/example-page/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/getting-started/example-page/</guid>
+      <guid>/ataei/docs/getting-started/example-page/</guid>
       <description>
         
         
@@ -3309,10 +3309,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Parameter Reference</title>
-      <link>/Static-Website-Hugo-Docsy/docs/reference/parameter-reference/</link>
+      <link>/ataei/docs/reference/parameter-reference/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Static-Website-Hugo-Docsy/docs/reference/parameter-reference/</guid>
+      <guid>/ataei/docs/reference/parameter-reference/</guid>
       <description>
         
         
